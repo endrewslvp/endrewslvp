@@ -11,8 +11,6 @@ Apaixonado por tecnologia e focado em desenvolvimento Java Back-End. Atualmente 
 **Linguagens**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239.svg?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
 **Ferramentas & Versionamento**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  

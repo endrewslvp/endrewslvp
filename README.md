@@ -1,37 +1,46 @@
-## Prazer, sou Endrew! 👨🏻‍💻
+# Hi there 👋 I'm Endrew Pereira
 
-Apaixonado por tecnologia e focado em desenvolvimento Java Back-End. Atualmente busco desafios que me permitam evoluir e gerar impacto real.
+**Back-End Developer | Java • Spring Boot • Software Architecture**
+📍 São Paulo, Brazil
 
-- Vivo em São Paulo, Brasil. 🚩
-- Desenvolvedor Java Back-End. 🖥️
-- Abraço com entusiasmo novas oportunidades ou desafios. 🔓
+I am a Back-End Developer with a strong focus on building scalable, maintainable, and highly available RESTful APIs. I am currently seeking opportunities to join engineering teams where I can contribute to complex system design and grow within cloud environments.
+- Guided 300+ students in backend development and optimized administrative processes.
+- Writing clean code, communicating technical concepts clearly, and designing solutions for real-world operational problems.
 
-## 🎯 Skills  
+---
 
-**Linguagens**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239.svg?style=flat&logo=csharp&logoColor=white)
+## 🛠️ Tech Stack
 
-**Banco de Dados**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+- **Backend & Databases:** Java, Python, Spring Boot, Hibernate, PostgreSQL, MySQL, Flyway <br>
+  [![Backend & DBs](https://skillicons.dev/icons?i=java,python,spring,hibernate,postgres,mysql&theme=dark)](https://skillicons.dev)
 
-**Frameworks & Ferramentas**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+- **DevOps, Tools & Testing:** Docker, Kubernetes, Git/GitHub, CI/CD, Postman, Swagger, JUnit <br>
+  [![DevOps & Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&theme=dark)](https://skillicons.dev)
 
-## ⚙️GitHub Analytics
+- **Architecture & Practices:** - Clean Code, Microservices concepts, SOLID principles, DDD (Domain-Driven Design), Hexagonal & Layered Architecture
+---
+
+## 📊 Coding Stats
 
 <div align="center">
-  <a href="https://github.com/endrewslvp">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=endrewslvp&count_private=true&include_all_commits=true&rank_icon=github&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewslvp&theme=tokyonight&layout=compact"/>
-    <img height="330px" src="https://github-readme-stats.vercel.app/api/wakatime?username=endrewslvp"
-  </a>
+  <img src="https://wakatime.com/share/@endrewslvp/bcf99260-09ac-4963-8f3c-96743e29cbd5.svg" alt="WakaTime Stats" />
 </div>
 
-## Me encontre:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:endrewslvp@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endrewslv/)
+---
+
+## 🎓 Education & Languages
+
+- **Postgraduate in Software Architecture** — FIAP *(Expected 2026)*
+- **Degree in Systems Analysis and Development** — UNIP
+- **Languages:** English (Intermediate / B1 - EF SET Certified)
+
+---
+
+
+## 📫 Let's Connect!
+
+Looking to discuss technology, software architecture, or backend opportunities? Feel free to reach out:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/endrewslv/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:endrewslvp@gmail.com)

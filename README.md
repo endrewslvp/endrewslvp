@@ -17,7 +17,7 @@ I am a Back-End Developer with a strong focus on building scalable, maintainable
 - **DevOps, Tools & Testing:** Docker, Kubernetes, Git/GitHub, CI/CD, Postman, Swagger, JUnit <br>
   [![DevOps & Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&theme=dark)](https://skillicons.dev)
 
-- **Architecture & Practices:** - Clean Code, Microservices concepts, SOLID principles, DDD (Domain-Driven Design), Hexagonal & Layered Architecture
+- **Architecture & Practices:** Clean Code, Microservices concepts, SOLID principles, DDD (Domain-Driven Design), Hexagonal & Layered Architecture
 ---
 
 ## 📊 Coding Stats
